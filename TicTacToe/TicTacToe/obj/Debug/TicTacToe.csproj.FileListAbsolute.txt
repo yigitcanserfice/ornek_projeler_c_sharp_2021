@@ -1,0 +1,14 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

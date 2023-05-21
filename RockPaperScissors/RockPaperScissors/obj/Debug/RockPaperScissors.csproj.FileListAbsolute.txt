@@ -1,0 +1,14 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.AssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Yeni klasör\Örnek programlar\RockPaperScissors\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

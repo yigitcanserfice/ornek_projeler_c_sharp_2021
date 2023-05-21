@@ -1,0 +1,14 @@
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\YİĞİTCAN\Desktop\Örnek programlar\deneme\deneme\obj\Debug\deneme.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\bin\Debug\deneme.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\bin\Debug\deneme.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\bin\Debug\deneme.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\obj\Debug\deneme.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\obj\Debug\deneme.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\obj\Debug\deneme.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\deneme\deneme\obj\Debug\deneme.pdb

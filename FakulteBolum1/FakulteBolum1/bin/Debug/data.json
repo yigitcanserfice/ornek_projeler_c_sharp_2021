@@ -1,0 +1,43 @@
+[
+{
+  "No": "202013709043",
+  "Name": "Yiğitcan",
+  "Surname": "Serfiçe",
+  "Department": {
+    "Name": "Bilgisayar Mühendisliği"
+  },
+  "Courses": []
+},{
+  "No": "202013709050",
+  "Name": "Cem",
+  "Surname": "Karaca",
+  "Department": {
+    "Name": "Bilgisayar Mühendisliği"
+  },
+  "Courses": []
+},{
+  "No": "202013709071",
+  "Name": "Umut",
+  "Surname": "Katib",
+  "Department": {
+    "Name": "Bilgisayar Mühendisliği"
+  },
+  "Courses": []
+},{
+  "No": "201713704059",
+  "Name": "Selin",
+  "Surname": "Kaya",
+  "Department": {
+    "Name": "Elektirk Elektornik Mühendisliği"
+  },
+  "Courses": []
+},{
+  "No": "201813709011",
+  "Name": "Simge",
+  "Surname": "Çalış",
+  "Department": {
+    "Name": "Çevre Mühendisliği"
+  },
+  "Courses": []
+}
+]

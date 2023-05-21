@@ -1,0 +1,10 @@
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\bin\Debug\FakulteBolum1.exe.config
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\bin\Debug\FakulteBolum1.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\bin\Debug\FakulteBolum1.pdb
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\obj\Debug\FakulteBolum1.csprojAssemblyReference.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\obj\Debug\FakulteBolum1.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\obj\Debug\FakulteBolum1.csproj.CopyComplete
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\obj\Debug\FakulteBolum1.exe
+C:\Users\MONSTER\OneDrive\Masaüstü\Örnek programlar\FakulteBolum1\FakulteBolum1\obj\Debug\FakulteBolum1.pdb
